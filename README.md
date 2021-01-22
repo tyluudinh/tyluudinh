@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tyluudinh&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+Looking at me on:
+- [Linkedin: tyluudinh](https://www.linkedin.com/in/tyluudinh/)
+- Gmail: dinhty.luu@gmail.com
+
 <!--
 **tyluudinh/tyluudinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
