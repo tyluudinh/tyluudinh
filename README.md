@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tyluudinh&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tyluudinh&show_icons=true&theme=vue)](https://www.linkedin.com/in/tyluudinh/)
 
 Looking at me on:
 - [Linkedin: tyluudinh](https://www.linkedin.com/in/tyluudinh/)
