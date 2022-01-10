@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tyluudinh&show_icons=true&theme=vue)](https://www.linkedin.com/in/tyluudinh/)
+<a href="https://app.daily.dev/tyluudinh"><img src="https://api.daily.dev/devcards/2b9151ffdb964c9fbc0b1b21e8f5ecae.png?r=trk" width="400" alt="Ty Luu Dinh's Dev Card"/></a>
 
 Looking at me on:
 - [Linkedin: tyluudinh](https://www.linkedin.com/in/tyluudinh/)
+- [Hackerank: dinhty_luu](https://www.hackerrank.com/dinhty_luu)
 - Gmail: dinhty.luu@gmail.com
 
 <!--
